@@ -1,4 +1,4 @@
-- title: General Information
+- title: General Info.
   type: map
   contents:
     - name: Full Name
@@ -72,16 +72,19 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Hongcai Scholarship
+    - year: 2020
       items: 
-        - Max Planck Medal
+            - Outstanding Graduate
+    - year: 2019
+      items: 
+        - Outstanding Student
+    - year: 2018
+      items: 
+        - Excellent Volunteer
+
+    
 
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
