@@ -19,8 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there 👋. Welcome to my website! I'm currently pursuing graduate studies at Peking University's Cell Mechanics Lab, supervised by [熊春阳(Chunyang Xiong)](http://www2.coe.pku.edu.cn/subpaget.asp?id=23). My research is dedicated to the multi-modal analysis of cellular data, encompassing both imagery and multiomics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I graduated with a B.Sc. from the University of Shanghai for Science and Technology, supervised by [Baizhou Shi](https://www.iem.yuntech.edu.tw/faculties1.php?ename=pcshih). His guidance ignited my passion for artificial intelligence, setting me on this exciting path.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm on the lookout for a Ph.D. position to further my research ambitions., if you are interested in my research, please feel free to contact me.
