@@ -2,9 +2,9 @@
 layout: page
 title: project 6
 description: a project with no image
-img:
+img: assets/img/1.jpg
 importance: 4
-category: Volunteer 
+category: blank 
 ---
 
 Every project has a beautiful feature showcase page.
