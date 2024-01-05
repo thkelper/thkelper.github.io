@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there 👋. Welcome to my website! I'm currently pursuing graduate studies at Peking University's Cell Mechanics Lab, supervised by [熊春阳(Chunyang Xiong)](http://www2.coe.pku.edu.cn/subpaget.asp?id=23). My research is dedicated to the multi-modal analysis of cellular data, encompassing both imagery and multiomics.
+Hi there 👋. Welcome to my website! I'm currently pursuing graduate studies at Peking University's Cell Mechanics Lab, supervised by [Chunyang Xiong](http://www2.coe.pku.edu.cn/subpaget.asp?id=23). My research is dedicated to the multi-modal analysis of cellular data, encompassing both imagery and multiomics.
 
 I graduated with a B.Sc. from the University of Shanghai for Science and Technology, supervised by [Baizhou Shi](https://www.iem.yuntech.edu.tw/faculties1.php?ename=pcshih). His guidance ignited my passion for artificial intelligence, setting me on this exciting path.
 
