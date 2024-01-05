@@ -3,10 +3,12 @@
   contents:
     - name: Full Name
       value: 杨昌澎 | Kelper Young 
-    - name: 
-      value: 
-    - name: Languages
-      value: Mandarin English
+    - name: Background 
+      value: Artificial Intelligence, Cell Mechanics 
+    - name: Skills
+      value: Python, Pytorch/Lightning, MMCV Series, C++, Matlab
+    - name: Research Interest
+      value: Lab automation, Deep Learning on celluar multi-modalites data, High-throughput drug screen, CV & LLM
 
 # - title: Academic Interests
 #   type: nested_list
