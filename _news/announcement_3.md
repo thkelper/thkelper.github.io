@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-First algorithm internship in Deepwise. :smile:
+First algorithm internship at Deepwise.

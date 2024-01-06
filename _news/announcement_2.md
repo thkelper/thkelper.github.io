@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-Go to 4Paradigm as a computer vision algorithm intern. :sparkles: 
+Joining 4Paradigm as a computer vision algorithm intern. :sparkles: 

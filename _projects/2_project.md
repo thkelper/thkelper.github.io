@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Multiomics 
-description: a project with a background image and giscus comments
+title: Multiomics Feature Disentanglement
+description:
 img: assets/img/multiomics/schema.png
 importance: 2
 category: Research 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Drug Screen
+title: Collagel Contraction Drug Screen
 # description: a project with a background image
 img: assets/img/thesis_schema.png
 importance: 1

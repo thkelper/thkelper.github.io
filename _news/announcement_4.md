@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Go to 4Paradigm as a computer vision algorithm intern. :sparkles: 
+Go to 4Paradigm as a computer vision algorithm intern.

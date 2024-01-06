@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-As a visiting student to institue of UCAS in Wenzhou China.
+Serving as a visiting student at the UCAS institute in Wenzhou, China.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New Journey to Peking University!
+Embarking on a new journey to Peking University! :sparkles: 
