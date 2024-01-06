@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Going to 4thParadigm(AI Unicorn Company in China) as a computer vision algorithm intern.
+Going to [4thParadigm](https://en.4paradigm.com/index.html)(AI Unicorn Company in China) as a computer vision algorithm intern.
