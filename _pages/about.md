@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home 
 permalink: /
 subtitle: <a href='/blog/category/magic'>Some Magic Here.</a> 
 
@@ -19,8 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: ture  # includes social icons at the bottom of the page
 ---
 
-Hi there 👋. Welcome to Kelper Young(杨昌澎)'s Page! I'm currently pursuing graduate studies at [Peking University](https://english.pku.edu.cn/)'s Cell Mechanics Lab, supervised by [Chunyang Xiong(熊春阳)](https://en.coe.pku.edu.cn/faculty/facultyaz/891204.htm). My research is dedicated to the deep learning and multi-modal analysis of cellular data, encompassing both imagery and multiomics.
+Hi there 👋. Welcome to Kelper Young(杨昌澎)'s Page! I'm currently pursuing graduate studies at [Peking University](https://english.pku.edu.cn/)'s Cell Mechanics Lab, supervised by [Prof. Chunyang Xiong(熊春阳)](https://en.coe.pku.edu.cn/faculty/facultyaz/891204.htm). My research is dedicated to the deep learning and multi-modal analysis of cellular data, encompassing both imagery and multiomics.
 
-I graduated with a B.Sc. from the [University of Shanghai for Science and Technology](https://en.usst.edu.cn/), supervised by [Baizhou Shi(施柏州)](https://www.iem.yuntech.edu.tw/faculties1.php?ename=pcshih). His guidance ignited my passion for artificial intelligence, setting me on this exciting path.
+I got my bachelor degree from the [University of Shanghai for Science and Technology](https://en.usst.edu.cn/), majored in Information Management and Information System, supervised by [Prof. Baizhou Shi(施柏州)](https://www.iem.yuntech.edu.tw/faculties1.php?ename=pcshih). His guidance ignited my passion for artificial intelligence, setting me on this exciting path.
 
-I'm on the lookout for a Ph.D. position to further my research ambitions.if you are interested in my research, please feel free to contact me.
+Now I'm looking for a Ph.D. position to further my research ambitions. If you are interested in my research, please feel free to contact me at thkelper@outlook.com.
