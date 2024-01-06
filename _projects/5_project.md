@@ -1,24 +1,41 @@
 ---
 layout: page
 title: You & Me
-description: Sustainable Mental Wellness Charity Project, Shanghai, 2017-2019.
+description: Sustainable Mental Wellness Charity Project, Shanghai China, 2017-2019
 img: assets/img/YouAndMe/1.jpg
 importance: 3
 category: Volunteer 
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+    This is a charitable project aimed at providing emotional support, 
+    so we named it "You & Me." 
+    I had been part of this project for over two years.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/YouAndMe/2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/YouAndMe/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+The image on the left shows the device we use for indoor collaborative planting of flowers and plants. <br />The image on the right is from our participation in a charity roadshow to obtain funding. <br />We also collaborate with community public welfare foundations to achieve sustainable development.
+</div>
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/YouAndMe/7.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/YouAndMe/8.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    We regularly visit the mental health center to accompany our friends in gardening, planting flowers, and crafting.
+</div>
 
 
 <div class="row">
@@ -33,44 +50,19 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Our team was gearing up for the Enactus competition, 
+    <br />aiming to showcase the sustainable business model of our "You & Me" project.
 </div>
 
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-v>
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/YouAndMe/7.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/YouAndMe/8.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/YouAndMe/2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/YouAndMe/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/YouAndMe/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
+<div class="caption">
+    Our project team members
+</div>
 
 <!-- The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
