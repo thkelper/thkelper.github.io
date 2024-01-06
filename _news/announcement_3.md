@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-First algorithm internship at Deepwise.
+First algorithm internship at Deepwise(Leading Medical AI company in China).
