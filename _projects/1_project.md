@@ -29,48 +29,25 @@ category: Research
 ### Droplet based collagen contraction gel assay
 &emsp;Due to the many inconveniences and barriers posed by the traditional two-step method, droplet-based collagen contraction experiments are more suitable for high-throughput collagen gel contraction experiments, contributing to high-throughput drug screening.
 
-<div class="caption">
-&emsp; This diagram illustrates the process employing collagen gel contraction for high-throughput drug screening in this project.
-</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects/thesis/thesis_schema.png" title="example image" class="img-fluid mx-auto d-block rounded z-depth-1" width=600 %}
     </div>
 </div>
-
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+&emsp; This diagram illustrates the process employing collagen gel contraction for high-throughput drug screening in this project.
 </div>
+- Step A: Hydrophobically modifying the well plate by adding PDMS, followed by the addition of droplets of the pre-prepared cell-collagen suspension.
+- Step B: Placing the collagen gel array plate in an incubator to mold the collagen.
+- Step C: Adding different kinds and concentrations of drugs the well plate.
+- Step D: Segmenting collagen gel images with deep learning model.
+- Step E: Measuring the drug effectiveness and effective concentration by analyzing the concentration rate of collagen over time.
 
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+### Exploration of High-Throughput Experimentation
+&emsp;This project also utilizes a 3D bioprinter for high-throughput printing of collagen gel arrays. Furthermore, to enhance the efficiency of the entire high-throughput process, we are exploring the use of automated pipettors and high-content microscopes for experimentation.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/video/tutieshi_640x360_9s.gif" title="example image" class="img-fluid mx-auto d-block rounded z-depth-1" width=600 %}
     </div>
 </div>
-```
-{% endraw %}
