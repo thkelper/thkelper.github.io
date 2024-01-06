@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Beginning an exploration of Large Language Models with my former mentor at 4Paradigm!
+Beginning an exploration of Large Language Models with my former mentor at 4thParadigm!
