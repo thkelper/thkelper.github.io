@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Multiomics Feature Disentanglement
+title: Multi-omics Feature Disentanglement
 description:
 img: assets/img/multiomics/schema.png
 importance: 2
 category: Research 
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
