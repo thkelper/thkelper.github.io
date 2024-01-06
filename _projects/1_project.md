@@ -55,11 +55,15 @@ category: Research
 &emsp; This diagram illustrates the process employing collagen gel contraction for high-throughput drug screening in this project.
 </div> -->
 ### Exploration of High-Throughput Experimentation
-&emsp;This project also utilizes a 3D bioprinter for high-throughput printing of collagen gel arrays. Furthermore, to enhance the efficiency of the entire high-throughput process, we are exploring the use of automated pipettors and high-content microscopes for experimentation.
+&emsp;This project also utilizes a 3D bioprinter for high-throughput printing of collagen gel arrays. Furthermore, to enhance the efficiency of the entire high-throughput process, I am  exploring the use of automated pipettors and high-content microscopes for experimentation.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/video/tutieshi_640x360_9s.gif" title="example image" class="img-fluid mx-auto d-block rounded z-depth-1" width=600 %}
+        {% include figure.html path="/assets/video/tutieshi_640x360_9s.gif" class="img-fluid mx-auto d-block rounded z-depth-1" width=640 height=600 controls=true autoplay=true %}
     </div>
 </div>
+### Future development
+&emsp;Experiments have already been successfully conducted with anti-tumor drugs, anti-myocardial fibrosis medications, and asthma medications. A patent application has been submitted, and more in-depth and extensive scientific research is ongoing.
 
-### Future develop
+<div class="caption">
+&emsp; If you are interested in this research, please feel free to contact me.
+</div>
