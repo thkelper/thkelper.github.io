@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='/blog/tag/magic/'>Some Magic Here.</a> 
+subtitle: <a href='/blog/category/magic'>Some Magic Here.</a> 
 
 profile:
   align: right
