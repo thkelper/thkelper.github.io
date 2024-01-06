@@ -1,7 +1,7 @@
 ---
 layout: page
 title: You & Me
-description: a project with a background image
+description: Sustainable Mental Wellness Charity Project, Shanghai, 2017-2019.
 img: assets/img/YouAndMe/1.jpg
 importance: 3
 category: Volunteer 

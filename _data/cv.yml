@@ -6,9 +6,9 @@
     - name: Background 
       value: Artificial Intelligence, Cell Mechanics 
     - name: Skills
-      value: Python, Pytorch/Lightning, MMCV Series, C++, Matlab
+      value: Web Lab Skills, Python, Pytorch/Lightning, MMCV Series, C++, Matlab
     - name: Research Interest
-      value: Lab automation, Deep Learning on celluar multi-modalites data, High-throughput drug screen, CV & LLM
+      value: CV & LLM, Deep Learning on celluar multi-modalites data, Lab automation, High-throughput drug screen 
 
 # - title: Academic Interests
 #   type: nested_list
@@ -41,7 +41,7 @@
       description:
         - title: Courses
           contents:
-          - Data Structure, Fundamentals of Database, Operations Research, Operating System, Computer Network, Information Management.
+          - Management Science, Micro and Macro economics, Data Structure, Fundamentals of Database, Operations Research, Operating System, Computer Network etc.
 
 - title: Research Experience
   type: time_table
