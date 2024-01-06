@@ -43,7 +43,17 @@ category: Research
 - Step C: Adding different kinds and concentrations of drugs the well plate.
 - Step D: Segmenting collagen gel images with deep learning model.
 - Step E: Measuring the drug effectiveness and effective concentration by analyzing the concentration rate of collagen over time.
+&emsp;
 
+&emsp;To validate the effectiveness of this method, we took traction force microscopy as benchmark and compared the results with the classic biological MTT assay. At the 12-hour mark, the collagen gel contraction experiment was able to demonstrate the effects of different drugs, while the MTT assay had not yet shown contrasting results.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/projects/thesis/COL_TFM_MTT.png" title="example image" class="img-fluid mx-auto d-block rounded z-depth-1" width=600 %}
+    </div>
+</div>
+<!-- <div class="caption">
+&emsp; This diagram illustrates the process employing collagen gel contraction for high-throughput drug screening in this project.
+</div> -->
 ### Exploration of High-Throughput Experimentation
 &emsp;This project also utilizes a 3D bioprinter for high-throughput printing of collagen gel arrays. Furthermore, to enhance the efficiency of the entire high-throughput process, we are exploring the use of automated pipettors and high-content microscopes for experimentation.
 <div class="row">
@@ -51,3 +61,5 @@ category: Research
         {% include figure.html path="/assets/video/tutieshi_640x360_9s.gif" title="example image" class="img-fluid mx-auto d-block rounded z-depth-1" width=600 %}
     </div>
 </div>
+
+### Future develop
