@@ -16,7 +16,7 @@ profile:
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: ture  # includes social icons at the bottom of the page
 ---
 
 Hi there 👋. Welcome to Kelper Young(杨昌澎)'s Page! I'm currently pursuing graduate studies at [Peking University](https://english.pku.edu.cn/)'s Cell Mechanics Lab, supervised by [Chunyang Xiong(熊春阳)](https://en.coe.pku.edu.cn/faculty/facultyaz/891204.htm). My research is dedicated to the deep learning and multi-modal analysis of cellular data, encompassing both imagery and multiomics.
