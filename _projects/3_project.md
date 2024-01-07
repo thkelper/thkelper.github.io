@@ -1,14 +1,12 @@
 ---
 layout: page
 title: Large Lanuage Models
-description: An initial exploration of Large Language Models, The cover image was created by DALL·E.
+description: An initial exploration of Large Language Models, The cover image was created by DALL·E
 img: assets/img/projects/llm/LLaMa.png
 redirect: https://unsplash.com
 importance: 3
 category: Research 
 ---
-
-In order to acquire knowledge in the field of multi-omics, I enrolled in a multi-omics artificial intelligence course this semester. This project was the final assignment for the course. The course instructor believes that my idea for the final project can be further researched to produce meaningful results, so I am currently working diligently towards that goal.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
