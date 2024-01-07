@@ -1,8 +1,8 @@
 ---
 layout: default
 permalink: /blog/
-title: Blog
-nav: true
+title: blog
+nav: false
 nav_order: 4
 pagination:
   enabled: true
@@ -12,8 +12,8 @@ pagination:
   sort_field: date
   sort_reverse: true
   trail:
-    before: 1 # The number of links before the current page
-    after: 3  # The number of links after the current page
+    before: 1 # the number of links before the current page
+    after: 3  # the number of links after the current page
 ---
 
 <div class="post">
@@ -78,7 +78,7 @@ pagination:
                     {% else %}
                       {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
                     {% endif %}
-                    {% assign year = post.date | date: "%Y" %}
+                    {% assign year = post.date | date: "%y" %}
 
                     <p class="post-meta">
                       {{ read_time }} min read &nbsp; &middot; &nbsp;
@@ -112,7 +112,7 @@ pagination:
     {% else %}
       {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
     {% endif %}
-    {% assign year = post.date | date: "%Y" %}
+    {% assign year = post.date | date: "%y" %}
     {% assign tags = post.tags | join: "" %}
     {% assign categories = post.categories | join: "" %}
 
@@ -126,8 +126,8 @@ pagination:
           <a class="post-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         {% elsif post.redirect contains '://' %}
           <a class="post-title" href="{{ post.redirect }}" target="_blank">{{ post.title }}</a>
-          <svg width="2rem" height="2rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-            <path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path>
+          <svg width="2rem" height="2rem" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+            <path d="m17 13.5v6h5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path>
           </svg>
         {% else %}
           <a class="post-title" href="{{ post.redirect | relative_url }}">{{ post.title }}</a>
@@ -136,7 +136,7 @@ pagination:
       <p>{{ post.description }}</p>
       <p class="post-meta">
         {{ read_time }} min read &nbsp; &middot; &nbsp;
-        {{ post.date | date: '%B %-d, %Y' }}
+        {{ post.date | date: '%b %-d, %y' }}
         {%- if post.external_source %}
         &nbsp; &middot; &nbsp; {{ post.external_source }}
         {%- endif %}
