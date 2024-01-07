@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Large Lanuage Model 
+title: Large Lanuage Models
 description: An initial exploration of Large Language Models, The cover image was created by DALL·E.
 img: assets/img/projects/llm/LLaMa.png
 redirect: https://unsplash.com
@@ -8,18 +8,7 @@ importance: 3
 category: Research 
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+In order to acquire knowledge in the field of multi-omics, I enrolled in a multi-omics artificial intelligence course this semester. This project was the final assignment for the course. The course instructor believes that my idea for the final project can be further researched to produce meaningful results, so I am currently working diligently towards that goal.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

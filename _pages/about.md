@@ -23,4 +23,4 @@ Hi there 👋. Welcome to Kelper Young(杨昌澎)'s Page! I'm currently pursuing
 
 I got my bachelor degree from the [University of Shanghai for Science and Technology（USST）](https://en.usst.edu.cn/), majored in Information Management and Information System, supervised by [Prof. Baizhou Shi(施柏州)](https://www.iem.yuntech.edu.tw/faculties1.php?ename=pcshih). His enlightening guidance ignited my passion for artificial intelligence.
 
-Now I'm looking for a Ph.D. position to further my research ambitions. If you are interested in my research, please feel free to contact me at thkelper@outlook.com.
+Now I'm looking for a Ph.D. position in 2024 fall to further my research ambitions, which involve designing automated high-throughput wet lab protocols and utilizing deep learning techniques to analyze multi-modal cellular data, including microscopy images and multi-omics data. If you are interested in my research, please feel free to contact me at thkelper@outlook.com.
