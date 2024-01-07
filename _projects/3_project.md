@@ -3,66 +3,22 @@ layout: page
 title: Large Lanuage Models
 description: An initial exploration of Large Language Models, The cover image was created by DALL·E
 img: assets/img/projects/llm/LLaMa.png
-redirect: https://unsplash.com
 importance: 3
 category: Research 
 ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+    The advent of large language models(LLM) has profoundly captured my interest. 
+    Well after ending my internship at 4th Paradigm, almost half a year later, 
+    my former mentor invited me to explore applications on LLM with him. 
+    Having gained a preliminary understanding of multimodal cellular data, 
+    I've recognized the substantial potential of LLM in contextual processing 
+    for such complex information. For this purpose, I pursued this internship 
+    with the aim of deepening understanding of advanced models, thereby enhancing 
+    my future research and analysis in the realm of multimodal cellular data. 
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+&emsp;Over the past few months, I have embarked on an initial exploration of large models, delving into the development of LLMs across various domains.
+ <br />&emsp;I've scrutinized the characteristics of raw data for our projects, begun engaging in prompt engineering, and developed effective prompts.
+ <br />&emsp;I've utilized OpenAI's interfaces to develop assistant and completion strategies that automatically generate corpus in bulk. 
+ <br />&emsp;Leveraging the Llama factory framework and the high-performing Chinese base model, Qwen, we've fine-tuned our first version of the model, which is still undergoing continuous research and improvement. 
+ <br />&emsp;In 2024, we aim to explore and research the application of agent models in specific domains.
+ <br />&emsp;I will gradually share my accumulated knowledge in this vast field here. Please stay tuned! And if you are interested in LLMs and this project, please feel free to contact me。 
