@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Large Lanuage Model 
+description: An initial exploration of Large Language Models, The cover image was created by DALL·E.
+img: assets/img/projects/llm/LLaMa.png
 redirect: https://unsplash.com
 importance: 3
 category: Research 

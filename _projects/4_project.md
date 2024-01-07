@@ -16,6 +16,7 @@ category: Volunteer
 </div>
 <div class="caption">
     This photo captures a moment from the evening of our cultural gala with the children; the following day, we were set to depart.
+    As you can see, the darkest one is me.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

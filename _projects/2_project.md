@@ -2,7 +2,7 @@
 layout: page
 title: Multi-omics Feature Disentanglement
 description:
-img: assets/img/multiomics/schema.png
+img: assets/img/projects/multiomics/cover.png
 importance: 2
 category: Research 
 ---

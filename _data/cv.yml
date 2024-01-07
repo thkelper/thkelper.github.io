@@ -4,11 +4,11 @@
     - name: Full Name
       value: 杨昌澎 | Kelper Young 
     - name: Background 
-      value: Artificial Intelligence, Cell Mechanics 
+      value: Artificial Intelligence, Bioimage and Multi-omics analysis.
     - name: Skills
       value: Web Lab Skills, Python, Pytorch/Lightning, MMCV Series, C++, Matlab
     - name: Research Interest
-      value: CV & LLM, Deep Learning on celluar multi-modalites data, Lab automation, High-throughput drug screen 
+      value: Computer Vision(CV), Large Language Models(LLM), Deep Learning on Celluar Multi-modalites data, Lab Automation and High-throughput Drug Screen using AI.
 
 # - title: Academic Interests
 #   type: nested_list
@@ -27,7 +27,7 @@
   contents:
     - title: M.Sc.  Industrial Software
       institution: Peking University
-      year: 2021 - present
+      year: 2021-present
       description:
         - title: Thesis
           contents:
@@ -37,7 +37,7 @@
             - Machine Learning, Cell Mechanics, Multi-omics Artificial Intelligence, Applied Mathematics in Biomedicine, Engineering Data Analytics.
     - title: B.Sc. Information Management and System
       institution: University of Shanghai for Science and Technology 
-      year: 2016 - 2020
+      year: 2016-2020
       description:
         - title: Courses
           contents:
@@ -47,45 +47,56 @@
   type: time_table
   contents:
     - title: Large Language Model Intern
-      institution: CyberWing
-      year: 2023.10-
+      institution: 4Paradigm
+      year: 2023.10-Present
       description:
+        - My previous mentor contacted me to collaborate on exploring large language models.
         - Investigate LLMs development in different fields.
         - Develop an auto assistant to facilitate prompt engineering.
         - Analyze raw data characteristics and construct a high-quality corpus.
-        - Finetune a large language model on a specific domain.
+        - Finetune a large language model on a specific domain and consistently to improve the performance. 
+        - Going forward, we plan to explore the application of agents.
     - title: Visiting Student
-      institution: UCAS
-      year: 2022.01-09
+      institution: UCAS Institute in Wenzhou, China.
+      year: 2023.01-2023.09
       description:
         - Learn cell culture and wet lab related techniques from scratch.
         - Devise and implement protocol to validate collagen gel contraction for drug screen.
         - High-throughput drug screening using AI algorithms, pipetting workstations, and high-content microscopy.
         - Validate the whole system on range of cells and drugs.
     - title: Computer Vision Intern
-      institution: 4Paradigm
-      year: 2021.01-10
+      institution: 4Paradigm (AI Unicorn Company in China)
+      year: 2022.06 - 2022.12
       description:
-        - Semantic Segmentation for Image Tampering Region Recognition.
+        - title: Semantic Segmentation for Image Tampering Region Recognition.
+          contents:
+            - Due to a lack of datasets, a substantial amount of data engineering was done to ultimately create a dynamic dataset generator for training the model.
+            - Enhance model performance based on several SOTA models.
         - Content Based Image Retrieval Algorithm.
+    - title: Algorithm Intern
+      institution: Deepwise (Leading Medical AI company in China)
+      year: 2021.12 - 2022.03
+      description:
+        - Delve into the bioimage analysis from scratch.
+        - Developed a tool for curved planar reconstruction used in cerebral vascular reconstruction.
+        - The internship was interupted by COVID-19.
 
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2022
+    - year: 2022  PKU
       items: 
         - Hongcai Scholarship
-    - year: 2020
+    - year: 2020  USST
       items: 
             - Outstanding Graduate
-    - year: 2019
+    - year: 2019  USST
       items: 
         - Outstanding Student
-    - year: 2018
+    - year: 2018  USST
       items: 
         - Excellent Volunteer
-
     
 
 
