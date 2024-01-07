@@ -18,7 +18,7 @@ category: Research
 
 &emsp;Over the past few months, I have embarked on an initial exploration of large models, delving into the development of LLMs across various domains.
  <br />&emsp;I've scrutinized the characteristics of raw data for our projects, begun engaging in prompt engineering, and developed effective prompts.
- <br />&emsp;I've utilized OpenAI's interfaces to develop assistant and completion strategies that automatically generate corpus in bulk. 
+ <br />&emsp;I've utilized OpenAI's interfaces to develop assistant and completion strategies that to generate corpus in bulk. 
  <br />&emsp;Leveraging the Llama factory framework and the high-performing Chinese base model, Qwen, we've fine-tuned our first version of the model, which is still undergoing continuous research and improvement. 
  <br />&emsp;In 2024, we aim to explore and research the application of agent models in specific domains.
  <br />&emsp;I will gradually share my accumulated knowledge in this vast field here. Please stay tuned! And if you are interested in LLMs and this project, please feel free to contact me。 
