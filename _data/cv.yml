@@ -6,7 +6,7 @@
     - name: Background 
       value: Artificial Intelligence, Bioimage and Multi-omics analysis.
     - name: Skills
-      value: Web Lab Skills, Python, Pytorch/Lightning, MMCV Series, lang-chain, C++, Matlab
+      value: Web Lab Skills, Python, Pytorch/Lightning, MMCV Series, LangChain, C++, Matlab
     - name: Research Interest
       value: Computer Vision(CV), Large Language Models(LLM), Deep Learning on Celluar Multi-modalites data, Lab Automation and High-throughput Drug Screen using AI.
 
