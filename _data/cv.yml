@@ -40,7 +40,7 @@
       year: 2016-2020
       description:
         - title: Thesis
-          contents: Application of Harmonic Search Algorithm Combined with Convolutional Neural Network to Construct a Cloud Shape Visual Recognition System
+          contents: Application of Harmonic Search Algorithm Combined with Convolutional Neural Network to Construct a Cloud Shape Visual Classification System
         - title: Courses
           contents:
           - Management Science, Micro and Macro economics, Data Structure, Fundamentals of Database, Operations Research, Operating System, Computer Network etc.
