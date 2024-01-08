@@ -29,7 +29,7 @@ $$ \text{ELBO} = \mathbb{E}_{q_\phi(z|x)}[\log p_\theta(x|z)] - D_{KL}(q_\phi(z|
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/projects/multiomics/schema.png" title="example image" class="img-fluid mx-auto d-block rounded z-depth-1" width=400 %}
+        {% include figure.html path="/assets/img/projects/multiomics/task1_schema.png" title="example image" class="img-fluid mx-auto d-block rounded z-depth-1" width=400 %}
     </div>
 </div>
 <div class="caption">
