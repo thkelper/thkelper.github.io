@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Drug Screen"
+title: Drug Screen
 description: A high-throughput drug screening system for recognizing collagen gel contraction based on deep learning technique
 img: assets/img/projects/thesis/thesis_schema.png
 importance: 1
