@@ -31,7 +31,7 @@
       description:
         - title: Thesis
           contents:
-            - A high-throughput pharmacodynamic evaluation system for identifying collagen gel shrinkage based on deep learning.
+            - A high-throughput pharmacodynamic evaluation system for identifying collagen gel shrinkage based on deep learning
         - title: Courses
           contents:
             - Machine Learning, Cell Mechanics, Multi-omics Artificial Intelligence, Applied Mathematics in Biomedicine, Engineering Data Analytics.
@@ -39,6 +39,8 @@
       institution: University of Shanghai for Science and Technology 
       year: 2016-2020
       description:
+        - title: Thesis
+          contents: Application of Harmonic Search Algorithm Combined with Convolutional Neural Network to Construct a Cloud Shape Visual Recognition System
         - title: Courses
           contents:
           - Management Science, Micro and Macro economics, Data Structure, Fundamentals of Database, Operations Research, Operating System, Computer Network etc.
