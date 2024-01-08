@@ -73,7 +73,11 @@
           contents:
             - Due to a lack of datasets, a substantial amount of data engineering was done to ultimately create a dynamic dataset generator for training the model.
             - Enhance model performance based on several SOTA models.
-        - Content Based Image Retrieval Algorithm.
+        - title: Content Based Image Retrieval Algorithm.
+          contents: 
+            - Based on lightweight vision transformer model do backbone as image content extractor.
+            - Implement Image retrieval by contrast learning based on Siamese network.
+
     - title: Algorithm Intern
       institution: Deepwise (Leading Medical AI company in China)
       year: 2021.12 - 2022.03
