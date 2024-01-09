@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2021-12-15 07:59:00-0400
+date: 2022-06-01 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-First algorithm internship at [Deepwise](https://www.deepwise.com/about)(Leading Medical AI company in China).
+Going to [4thParadigm](https://en.4paradigm.com/index.html)(AI Unicorn Company in China) as a computer vision algorithm intern.
