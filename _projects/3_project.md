@@ -22,3 +22,7 @@ category: Research
  <br />&emsp;Leveraging the [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) framework and the high-performing Chinese base model, [Qwen](https://tongyi.aliyun.com/), we've fine-tuned our first version of the model, which is still undergoing continuous research and improvement. 
  <br />&emsp;In 2024, we aim to explore and research the application of agent models in specific domains.
  <br />&emsp;I will gradually share my accumulated knowledge in this vast field here. Please stay tuned! And if you are interested in LLMs, please feel free to contact me at thkelper@outlook.com
+
+1. Two Modes of Calling the OpenAI API Interface: assistants and completion.
+2. Developing an agent that utilizes InternLM to call the MMSeg and MMDet libraries.
+3. Research on LLM Agent.
