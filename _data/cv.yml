@@ -59,7 +59,7 @@
         - Going forward, we plan to explore the application of agents.
     - title: Visiting Student
       institution: UCAS Institute in Wenzhou, China.
-      year: 2023.01-2023.09
+      year: 2022.10-2023.10
       description:
         - Learn cell culture and wet lab related techniques from scratch.
         - Devise and implement protocol to validate collagen gel contraction for drug screen.
@@ -67,7 +67,7 @@
         - Validate the whole system on range of cells and drugs.
     - title: Computer Vision Intern
       institution: 4Paradigm (AI Unicorn Company in China)
-      year: 2022.06 - 2022.12
+      year: 2022.04 - 2022.09
       description:
         - title: Semantic Segmentation for Image Tampering Region Recognition.
           contents:
@@ -80,11 +80,11 @@
 
     - title: Algorithm Intern
       institution: Deepwise (Leading Medical AI company in China)
-      year: 2021.12 - 2022.03
+      year: 2021.11 - 2022.03
       description:
         - Delve into the bioimage analysis from scratch.
+        - Cerebral Vertebral Vessel Segmentation.
         - Developed a tool for curved planar reconstruction used in cerebral vascular reconstruction.
-        - The internship was interupted by COVID-19.
 
 
 - title: Honors and Awards
