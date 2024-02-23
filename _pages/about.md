@@ -23,4 +23,6 @@ social: ture  # includes social icons at the bottom of the page
 
 <!-- I got my bachelor degree from the [University of Shanghai for Science and Technology(USST)](https://en.usst.edu.cn/), majored in Information Management and Information System, supervised by [Asst. Prof. Baizhou Shi(施柏州)](https://www.iem.yuntech.edu.tw/faculties1.php?ename=pcshih). His enlightening guidance ignited my passion for artificial intelligence. -->
 
-Now I'm looking for a Ph.D. position in 2024 to further my research ambitions, focusing on deep learning and multi-modal analysis in biomedical science. And I have a strong interest in developing an LLM-Agent integrating the above tools for biomedical research. Please feel free to contact me if interested.
+Now I'm looking for a Ph.D. position in 2024 to further my research ambitions, focusing on deep learning and multi-modal analysis in biomedical science. Please feel free to contact me if interested.
+
+<!-- And I have a strong interest in developing an LLM-Agent integrating the above tools for biomedical research. -->
