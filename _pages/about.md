@@ -6,7 +6,7 @@ subtitle: <a href='/blog/category/magic'>Some Magic Here.</a>
 
 profile:
   align: right
-  image: profile.png
+  image: dada.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
